@@ -260,3 +260,6 @@ paket-files/
 __pycache__/
 *.pyc
 .DS_Store
+.ionide/symbolCache.db
+.metals/metals.h2.db
+.vscode/settings.json
